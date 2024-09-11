@@ -6,7 +6,7 @@ Coding:                    Python, SQL (*intermediate*)
                   
 Modeling:                  EER, UML, MERODE, BPMN
 
-Point-&-click software:    Merlin, Celonis, Tableau
+Point-&-click software:    Merlin, Celonis, RapidMiner, Tableau
 
 ## Education
 - **M.S. Information Management**      | KU Leuven (September 2024)
