@@ -16,4 +16,4 @@ Point-&-click software:    Merlin, Celonis, Tableau
 - **B.A. Cultural Anthropology** | Leiden University (September 2001)
 
 ## Work Experience
-- **Teacher Modern History** | Jan-van-Ruusbroeckollege Brussels, Belgium (September 2007 - September 2024)
+- **Teacher Modern History** | Jan-van-Ruusbroeckollege Brussels, Belgium (September 2007 - September 2024) 
