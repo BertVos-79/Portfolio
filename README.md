@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 ## Technical Skills
 Coding:                    Python, SQL (*intermediate*)
